@@ -16,12 +16,6 @@ DEFINE_GRADIENT_PALETTE( scalegradient ) {   // this is the red/orange palette
 218,   255,102,  0,   //scale orange
 255,   255, 72,  9 }; //end pixel color
 
-// DEFINE_GRADIENT_PALETTE( scalegradient ) {   // this is the red/orange palette
-//   0,   255, 72,  2,   //start pixel color
-//  92,   255,  0,  8,   //scale red
-// 218,   255,102,  0,   //scale orange
-// 255,   255, 72,  2 }; //end pixel color
-
 // DEFINE_GRADIENT_PALETTE( scalegradient ) {   // this is the green/yellow palette
 //   0,   167,210, 46,   //start pixel color
 //  92,    63,183, 72,   //scale green
